@@ -1,0 +1,12 @@
+{
+  "export_job_id": "59af7c4b-fe3c-4c47-8579-98791145c977",
+  "id_short": 593934,
+  "published_at": "2026-04-13T19:45:34Z",
+  "repo_name": "white-space-finder-in-san-antonio-new-braunfels-metro-texas-us-sample-593934",
+  "sample_asset_name": "beamstation_593934_food_and_drink-us-sanantonionewbraunfelstx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/593934/beamstation_593934_food_and_drink-us-sanantonionewbraunfelstx_SAMPLE_DIST.csv",
+  "sample_records": 10,
+  "sample_sha256": "73bcb12e42e9ad8663fca449eb1e62038742f8a8b3b0d1d59daef4fc65e61df1",
+  "sample_size_bytes": 52043,
+  "total_records": 106
+}
