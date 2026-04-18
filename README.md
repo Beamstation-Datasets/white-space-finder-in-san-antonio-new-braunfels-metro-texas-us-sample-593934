@@ -1,6 +1,6 @@
 # White Space Finder in San Antonio-New Braunfels (Metro), Texas, US
 
-> Free BeamStation sample export with 10 rows and masked direct-contact fields.
+> Free BeamStation sample export with 9 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `593934` |
 | Location | San Antonio-New Braunfels, TX |
 | Category | Restaurants |
-| Full dataset size | 106 records |
-| Free sample size | 10 records (9.43%) |
-| Last export | 2026-04-07T23:42:02.348371+00:00 |
+| Full dataset size | 97 records |
+| Free sample size | 9 records (9.28%) |
+| Last export | 2026-04-15T05:25:56.714623+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-san-antonio-new-braunfels-metro-texas-us-sample-593934/releases/download/sample-latest/beamstation_593934_food_and_drink-us-sanantonionewbraunfelstx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
